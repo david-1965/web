@@ -1,5 +1,30 @@
-hola
-que 
-tal
-com
-estas
+TERMINAL:
+
+pwd -> per saber la carpeta on estic
+
+ls -> per llistar tot el que hi ha dins la carpeta on estic
+
+cd -> per canviar de carpeta, per exemple: desde /Users/David pots fer cd Desktop/
+
+gst / git status -> per saber els fitxers que han canviat entre git i el ordinador
+
+gaa / git add . -> per preparar el que es vol guardar
+
+gcmgs "algo" / git commit -m "algo" -> per guardar a git els canvis
+
+gp / git push -> per guardar els canvis a Github (el núvol)
+
+http-server -> per convertir l'ordinador en sevidor i poder veure els fitxers al navegador
+
+CTRL + C -> parar el servidor
+
+
+NAVEGADOR:
+
+cmd + alt + i -> per obrir el "inspeccionar"
+
+cmd + shift + R -> refresh forçat per veure els canvis que es facin als fitxers
+
+
+URL EXEMPLE DEL CURS: 
+https://studies.cs.helsinki.fi/exampleapp/notes
