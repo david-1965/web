@@ -28,3 +28,7 @@ cmd + shift + R -> refresh forçat per veure els canvis que es facin als fitxers
 
 URL EXEMPLE DEL CURS: 
 https://studies.cs.helsinki.fi/exampleapp/notes
+
+M'HE QUEDAT A L'APARTAT DEL CURS:
+·Parte 0b (Fundamentos de las aplicaciones web)
+- CSS
